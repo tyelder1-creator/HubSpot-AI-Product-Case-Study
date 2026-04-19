@@ -56,4 +56,4 @@ Methodology: Agile Project Management, Weekly Sprint Milestones
 
 Outcomes: 12 AI-assisted deliverables, 2 weeks early delivery, 98% Client Satisfaction
 
-[📸 View the visual portfolio breakdown PDF here](./HubSpot AI-Powered Marketing Campaign.pdf)
+[📸 View the visual portfolio breakdown PDF here](HubSpot AI-Powered Marketing Campaign.pdf)
